@@ -1,1 +1,1 @@
-# Brick-Breaker-Game-Java Application
+# Brick-Breaker-Java Application
